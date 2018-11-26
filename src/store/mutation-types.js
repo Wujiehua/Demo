@@ -1,0 +1,2 @@
+export const RECEIVE_ALLINFO = 'RECEIVE_ALLINFO'
+export const RECEIVE_SHOPS = 'RECEIVE_SHOPS'
